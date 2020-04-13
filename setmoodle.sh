@@ -4,6 +4,7 @@
 #
 #Instalacion php 7.1
 #
+cd setmoodle
 sudo chmod 777 setmoodle.sh
 sudo apt-get update
 sudo apt-get upgrade -y
