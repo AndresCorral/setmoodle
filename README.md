@@ -1,4 +1,4 @@
-## Preparar la instalación
+## :floppy_disk: Preparar la instalación 
 ### Sigue los pasos y estaras bien :ok_hand:
 
 
@@ -20,12 +20,6 @@ Durante el proceso de instalación tendras que:
 :alarm_clock:
 5. Set Passqord :key:
 6. Repeat Password :key:
-7. Paso 2
-:alarm_clock:
-8. Paso 2
-:alarm_clock:
-9. Paso 2
-:alarm_clock:
-10. Paso 2
-:alarm_clock:
-11. Paso 2
+7. De acá en adelante aplicas el paso 2
+
+Instalación lista :white_check
