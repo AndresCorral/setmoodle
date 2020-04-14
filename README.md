@@ -22,4 +22,4 @@ Durante el proceso de instalación tendras que:
 6. Repeat Password :key:
 7. De acá en adelante aplicas el paso 2
 
-Instalación lista :white_check
+Instalación lista :white_check_mark:
