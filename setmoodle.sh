@@ -26,7 +26,6 @@ sudo mysql_secure_installation
 #
 sudo apt update
 sudo apt install -y apache2
-sudo ufw allow http
-sudo ufw allow https
+
 
 
