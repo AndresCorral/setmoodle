@@ -27,5 +27,11 @@ sudo mysql_secure_installation
 sudo apt update
 sudo apt install -y apache2
 
+sudo apt-get update
+sudo apt-get upgrade -y
+
+sudo chmod 777 moodle37.sh
+./moodle37.sh
+
 
 
